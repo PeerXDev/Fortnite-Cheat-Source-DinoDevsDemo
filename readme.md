@@ -1,23 +1,22 @@
 <h1 align="center">
-  Fivem Cheat Demo 💉
+  Fortnite Cheat Demo 💉
 </h1>
 
 ## <a id="content"></a>📜 〢 Read
 
 - Read the instructions carefully.
-- Exec for Fivem's latest version, which you can check for updates yourself.
+- Exec for Fortnite's latest version, which you can check for updates yourself.
 
 ## <a id="features"></a>🛑 〢 Features
 
 ### MISC
 - Godmode 
 - Aimbot 
-- SuperJump
+- Soft Aim
 - Save & Config
 - Bypass 
-- Memory Aimbot
+- Fly exploit
 - Snaplines, Box, Healthbars
-- Give Weapon To Ped 
 ---
 
 ## <a id="setup2"></a> 🗒 〢 Product
