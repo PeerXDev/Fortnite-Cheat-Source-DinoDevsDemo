@@ -1,19 +1,26 @@
-FiveM/GTA5 Cheat source code. 
+<h1 align="center">
+  Fivem Cheat Demo 💉
+</h1>
 
-Working and Probably Undetected 18/02/2023
+## <a id="content"></a>📜 〢 Read
 
-Features List {
+- Read the instructions carefully.
+- Exec for Fivem's latest version, which you can check for updates yourself.
 
-    Memory Aimbot
-    Visuals: Snaplines, Box, Healthbars
-    Misc: Give Weapon To Ped 
-    (No Natives Invoker Included).
-}
+## <a id="features"></a>🛑 〢 Features
 
-Made by PeerX#2996 with Love!
+### MISC
+- Godmode 
+- Aimbot 
+- SuperJump
+- Save & Config
+- Bypass 
+- Memory Aimbot
+- Snaplines, Box, Healthbars
+- Give Weapon To Ped 
+---
 
-Note: Use your own injector or join our discord.
-    
-Our Discord if you need help -> https://discord.gg/r7eP96R7j8
-            
-Have fun using it :D
+## <a id="setup2"></a> 🗒 〢 Product
+- If the free version does not work You can pay to buy a personal project.
+- Safe  on main account without getting banned / no need to turn off virus scan Scroll down to the bottom to read more.
+- [Discord](https://discord.gg/r7eP96R7j8) 
